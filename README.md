@@ -38,7 +38,7 @@ For Mac users, follow along with this video:
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/otfhhI-5qtM" frameborder="0" allowfullscreen></iframe>
 
-### A Quick Note on Organizing Work on Your Machine
+### A Quick Note on Organizing Work on Your Machine.
 
 Throughout this course, you will be downloading many assignments, so it is
 important to keep your code organized. If you haven't yet, we recommend that you
